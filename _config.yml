@@ -10,6 +10,7 @@ title: We set up the website
 email: andrew.alcaraz.851@my.csun.edu
 description: > # this means to ignore newlines until "baseurl:"
  Im just a new user looking to get a job in IT database administrators.
+
 testing this line for darwin project
 
 baseurl: "" # the subpath of your site, e.g. /blog
