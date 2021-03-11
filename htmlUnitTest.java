@@ -30,7 +30,7 @@ public class htmlUnitTest {
 		// Create a test that is specific to YOUR Jekyll site here -->
 		    
 		     System.out.println("Page title is the same");
-		     
+		     System.out.println("changing file ");
 		// <-- End of your test code
 
 		driver.quit();			
