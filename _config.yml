@@ -9,9 +9,11 @@
 title: We set up the website
 email: andrew.alcaraz.851@my.csun.edu
 description: > # this means to ignore newlines until "baseurl:"
+
  Im just a new user looking to get a job in IT database administrators.
 testing this line for darwin project
-
+This is project 3 for darwin.
+testing for project 4
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://andrewalcaraz.com" # the base hostname & protocol for your site
 twitter_username: superrandom421
